@@ -1,14 +1,14 @@
-# Task 9 - Network Vulnerability Scanning
+# Task 9 – Network Vulnerability Scanning
 
 ## Objective
 The objective of this task is to understand how network vulnerability scanning works, how open ports and running services expose security risks, and how tools like Nmap help in identifying weak points in a network.
 
 ---
 
-## Tools Used 
-- Nmap
-- Masscan
-- Local
+## Tools Used
+- Nmap (Primary Tool)
+- Masscan (Alternative)
+- Local test network environment
 
 ---
 
@@ -17,28 +17,28 @@ Network vulnerability scanning is the process of identifying open ports, running
 
 ---
 
-## Purpose of Port Scanning 
+## Purpose of Port Scanning
 Port scanning helps in:
-- Discovering open ports
+- Discovering active hosts
 - Identifying open ports
 - Detecting running services
-- Finding miscofigurations
-- UNderstanding network exposure
+- Finding misconfigurations
+- Understanding network exposure
 
 ---
 
 ## Scanning Methodology
 
-The following steps are followec in network scanning:
+The following steps are followed in network scanning:
 
-1. Scan the local network to identify active hosts
-2. Identify open and closed ports
-3. Detect services running on open ports
-4. Identify operating system information
-5. Analyze potential vulnerabilities
-6. Save scan results
-7. Interpret risks
-8. Document findings
+1. Scan the local network to identify active hosts  
+2. Identify open and closed ports  
+3. Detect services running on open ports  
+4. Identify operating system information  
+5. Analyze potential vulnerabilities  
+6. Save scan results  
+7. Interpret risks  
+8. Document findings  
 
 This methodology follows the mini guide provided in the task sheet. fileciteturn7file0
 
